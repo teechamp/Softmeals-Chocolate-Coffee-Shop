@@ -1,0 +1,53 @@
+afternav{
+    background-image: url(images/imae11.jpg) ;
+    background-color: grey;
+}
+.white{
+    color: white;
+}
+.blue{
+    color: rgb(14, 14, 73);
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+h3
+{
+    text-align: center;
+    color: crimson;
+}
+}
+
+
+.red{
+    color:crimson;
+}
+.marginbottom{
+    margin-bottom: 40px;
+}
+
+.btn-default{
+    border:yellow 2px solid;
+    transition: all 0.3s ease-in-out;
+}
+.btn-default:hover{
+    background-color:yellow;
+    color:#fff !important;
+}
+
+.hold{
+background: url(../images/var.jpg) no-repeat center /cover;
+height: 580px;
+width:100%;
+}
+
+.s-hero{
+    margin-top:10%;
+    color:white;
+}
+
+.round {
+    border-radius: 50px;
+}
